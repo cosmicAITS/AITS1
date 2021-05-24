@@ -124,9 +124,11 @@ for train_indexes, test_indexes in zip(kf.split(X_train, y_train), kf.split(X_te
 <br>
 
 # 4. References
-- Web sites about software.<br>
+- Our article<br>
+https://www.medrxiv.org/content/10.1101/2021.03.30.21254605v1
+- Web sites about software<br>
 https://www.anaconda.com/products/individual<br>
-- Web sites about machine learning related python libraries.<br>
+- Web sites about machine learning related python libraries<br>
 https://scikit-learn.org/stable/supervised_learning.html#supervised-learning<br>
 https://www.tensorflow.org/api_docs/python/tf/keras?hl=ja<br>
 
